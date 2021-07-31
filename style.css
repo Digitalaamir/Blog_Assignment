@@ -1,0 +1,40 @@
+h1{
+    background-color: royalblue;
+    color:seashell;
+    text-align: center;
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+    }
+    h2{
+        background-color:rgb(166, 255, 0);
+        color:rgb(255, 0, 0);
+        margin:5px;
+        /* width:50%; */
+        text-align:center;
+        border-radius:9px;
+
+    }
+    #a{
+        width:1250;
+        height:350;
+    }
+    h3{
+        color:white;
+        font-size:30px;
+        background-color:royalblue;
+        border-radius:9px;
+        width:15%;
+        text-align:center;
+    }
+    #b{
+        width:350px;
+        height:200px;
+    }
+    #c:visited{
+        color:blue;
+    }
+    #c:hover{
+        color:red;
+    }
+    
